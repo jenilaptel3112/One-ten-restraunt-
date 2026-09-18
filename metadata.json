@@ -1,0 +1,6 @@
+{
+  "name": "One Ten",
+  "description": "A premium, minimal, and refined restaurant website for One Ten, featuring contemporary seasonal dining, tasting menus, table reservations, and quiet luxury hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
